@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusteriTakip", "MusteriTakip\MusteriTakip.csproj", "{BC1D2CB1-1CFA-45B9-82D0-BE6AAEEF9C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1D2CB1-1CFA-45B9-82D0-BE6AAEEF9C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1D2CB1-1CFA-45B9-82D0-BE6AAEEF9C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1D2CB1-1CFA-45B9-82D0-BE6AAEEF9C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1D2CB1-1CFA-45B9-82D0-BE6AAEEF9C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461BE177-8D2C-4353-A663-8F1D751F1852}
+	EndGlobalSection
+EndGlobal
