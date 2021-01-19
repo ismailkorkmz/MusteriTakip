@@ -23,9 +23,9 @@ namespace MusteriTakip
 
             Musteri musteri4 = new Musteri();
             musteri4.Id = 4;
-            musteri4.Adi = "Melda";
+            musteri4.Adi = "Mela";
             musteri4.Soyadi = "KARTAL";
-
+            
             Musteri[] musteriler = new Musteri[] { musteri1, musteri2, musteri3, musteri4 };
            
 
